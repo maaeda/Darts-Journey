@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19bb8253-071b-41cc-b0c3-4c353e250f86" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/GetWorldPos.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GetWorldPos.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/WorldPos.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/WorldPos.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +117,8 @@
       <workItem from="1717568413734" duration="50000" />
       <workItem from="1717568571575" duration="755000" />
       <workItem from="1717569807264" duration="51000" />
+      <workItem from="1717570103515" duration="7000" />
+      <workItem from="1717570165066" duration="52000" />
     </task>
     <servers />
   </component>
