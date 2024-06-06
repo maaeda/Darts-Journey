@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="19bb8253-071b-41cc-b0c3-4c353e250f86" name="変更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mapbox/Examples/Prefabs/LoadingScreenCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mapbox/Examples/Prefabs/LoadingScreenCanvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Getpos.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Getpos.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WorldPos.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WorldPos.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +123,8 @@
       <workItem from="1717569807264" duration="51000" />
       <workItem from="1717570103515" duration="7000" />
       <workItem from="1717570165066" duration="52000" />
+      <workItem from="1717574758495" duration="698000" />
+      <workItem from="1717575817704" duration="615000" />
     </task>
     <servers />
   </component>

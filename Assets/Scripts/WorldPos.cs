@@ -1,30 +1,15 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using Mapbox.Unity.Utilities;
 using Mapbox.Unity.Map;
 using Mapbox.Utils;
+using UnityEngine;
 
-public class MapboxLocation : MonoBehaviour
+public class CoordinatesConverter : MonoBehaviour
 {
-    public AbstractMap map = null;
+    public AbstractMap map;
 
-    void Start()
+    public Vector2d GetLatLongFromPosition(Vector3 position)
     {
-        map.MapVisualizer.OnMapVisualizerStateChanged += (state) =>
-        {
-            if (state == ModuleState.Finished) {
-
-                Vector3 ObjectPos = this.transform.position;
-                Vector2d WorldPos = map.WorldToGeoPosition(ObjectPos);
-                Debug.Log(WorldPos);
-
-            }
-        };
-    }
-
-    void Update()
-    {
-
+        // Unityのワールド座標を緯度経度に変換
+        Vector2d latLong = map.WorldToGeoPosition(position);
+        return latLong;
     }
 }
