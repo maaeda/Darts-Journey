@@ -6,7 +6,7 @@ public class BallShot : MonoBehaviour
 {
     [SerializeField] GameObject sphere;
     [SerializeField] GameObject childObj;
-    private float speed = 1400;
+    private float speed = 1300;
 
     void Start()
     {

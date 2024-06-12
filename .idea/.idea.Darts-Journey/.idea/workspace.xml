@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19bb8253-071b-41cc-b0c3-4c353e250f86" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BallShot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BallShot.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Push.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Push.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Push_OLD.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Push_OLD.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StartButtunClick.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StartButtunClick.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BallShot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BallShot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ButtunClick.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ButtunClick.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GetWorldPos.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GetWorldPos.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Getpos.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Getpos.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Push.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Push.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/touch.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/touch.asset.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +139,7 @@
       <workItem from="1718087071994" duration="390000" />
       <workItem from="1718169491404" duration="21000" />
       <workItem from="1718169993708" duration="412000" />
+      <workItem from="1718173435236" duration="12000" />
     </task>
     <servers />
   </component>
