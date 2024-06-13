@@ -10,6 +10,7 @@ public class CoordinatesConverter : MonoBehaviour
     {
         // Unityのワールド座標を緯度経度に変換
         Vector2d latLong = map.WorldToGeoPosition(position);
+        Debug.Log(latLong);
         return latLong;
     }
 }
