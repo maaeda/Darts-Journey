@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19bb8253-071b-41cc-b0c3-4c353e250f86" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CollisionDetector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CollisionDetector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapboxLocation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapboxLocation.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WorldPos.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WorldPos.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Push_OLD.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Push_OLD.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Trriger.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Trriger.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WorldPos.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WorldPos.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +142,10 @@
       <workItem from="1718173942282" duration="100000" />
       <workItem from="1718174154452" duration="39000" />
       <workItem from="1718239796627" duration="39000" />
-      <workItem from="1718239905831" duration="5477000" />
+      <workItem from="1718239905831" duration="6364000" />
+      <workItem from="1718538096860" duration="865000" />
+      <workItem from="1718539041960" duration="3967000" />
+      <workItem from="1718543111672" duration="374000" />
     </task>
     <servers />
   </component>
