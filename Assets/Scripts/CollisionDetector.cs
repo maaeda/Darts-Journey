@@ -31,8 +31,8 @@ public class CollisionDetector : MonoBehaviour
         {
             Debug.Log($"衝突したオブジェクトは: {objectName}");
 
-            //オブジェクトとして扱う
-            GameObject Sphere = GameObject.Find(objectName);
+            // 衝突したオブジェクトを取得
+            GameObject Sphere = collision.gameObject;;
 
             // Rigidbodyコンポーネントを取得
             Rigidbody SphereRigidbody = Sphere.GetComponent<Rigidbody>();
