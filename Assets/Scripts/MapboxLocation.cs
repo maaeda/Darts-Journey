@@ -4,7 +4,7 @@ using UnityEngine;
 using Mapbox.Unity.Utilities;
 using Mapbox.Unity.Map;
 using Mapbox.Utils;
-
+/*DEMOコード*//*DEMOコード*//*DEMOコード*//*DEMOコード*//*DEMOコード*//*DEMOコード*/
 public class MapboxLocation : MonoBehaviour
 {
     public AbstractMap map = null;

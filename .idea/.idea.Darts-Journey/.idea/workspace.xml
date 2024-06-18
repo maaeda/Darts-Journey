@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19bb8253-071b-41cc-b0c3-4c353e250f86" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TitleButtons.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TitleButtons.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CenterPoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CenterPoint.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Darts-Journey/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts 1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts 1/TitleButtons.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts 1/TitleButtons.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollisionDetector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CollisionDetector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapboxLocation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapboxLocation.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +137,7 @@
       <workItem from="1718539041960" duration="3967000" />
       <workItem from="1718543111672" duration="374000" />
       <workItem from="1718583461881" duration="1028000" />
+      <workItem from="1718670852138" duration="641000" />
     </task>
     <servers />
   </component>
