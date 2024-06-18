@@ -12,7 +12,7 @@ public class BallShot : MonoBehaviour
     {
         childObj = transform.GetChild(0).gameObject;
     }
-    
+
     void Update()
     {
         if(Input.GetKeyDown("space"))

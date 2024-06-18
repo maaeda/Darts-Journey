@@ -54,7 +54,8 @@ public class CollisionDetector : MonoBehaviour
             double latitude  = sphereGeoLocation.y;//経度
             double longitude = sphereGeoLocation.x;//緯度
 
-            Application.OpenURL($"https://fukuno.jig.jp/app/map/latlng/#{longitude}%2C{latitude}");//""の中には開きたいWebページのURLを入力します
+            //Application.OpenURL($"https://fukuno.jig.jp/app/map/latlng/#{longitude}%2C{latitude}");//""の中には開きたいWebページのURLを入力します
+            Application.OpenURL($"https://maps.google.com/maps?ll={longitude},{latitude}&q={longitude},{latitude}");//""の中には開きたいWebページのURLを入力します
 
         }
     }
