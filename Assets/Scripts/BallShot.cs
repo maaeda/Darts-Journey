@@ -20,6 +20,7 @@ public class BallShot : MonoBehaviour
 
     void Update()
     {
+        GameObject Sphere = GameObject.Find("Sphere(Clone)");
         if(Input.GetKeyDown("space"))
         {
             GameObject ball =  (GameObject)Instantiate(sphere, childObj.transform.position, Quaternion.identity);
@@ -29,6 +30,7 @@ public class BallShot : MonoBehaviour
 
         if(Input.GetMouseButtonDown(0))
         {
+            Destroy(Sphere);
             GameObject ball =  (GameObject)Instantiate(sphere, childObj.transform.position, Quaternion.identity);
             Rigidbody ballRigidbody = ball.GetComponent<Rigidbody>();
             ballRigidbody.AddForce(transform.forward * speed);
