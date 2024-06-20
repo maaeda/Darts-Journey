@@ -28,6 +28,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/fa/e2a92739/XmlNode.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Variables/SceneVariables.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -142,6 +143,9 @@
       <workItem from="1718670852138" duration="641000" />
       <workItem from="1718711276558" duration="88000" />
       <workItem from="1718714132298" duration="1310000" />
+      <workItem from="1718842590592" duration="83000" />
+      <workItem from="1718842692304" duration="1126000" />
+      <workItem from="1718848653780" duration="318000" />
     </task>
     <servers />
   </component>
